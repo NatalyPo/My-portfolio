@@ -159,7 +159,7 @@
   <a href="natalymanya.editor@gmail.com">
     <img src="https://img.shields.io/badge/GMail-yellow?style=for-the-badge&logo=GMail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://wa.me/79663525528">
     <img src="https://img.shields.io/badge/WhatsApp-tealgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
    <a href="https://t.me/Nataly_friendly">
