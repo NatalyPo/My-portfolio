@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger Badge"/>
   </a>
    <a href="https://www.soapui.org">
-    <img src="https://img.shields.io/badge/SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white" alt="SoapUI Badge"/>
+    <img src="https://img.shields.io/badge/SoapUI-ffbf00?style=for-the-badge&logo=SoapUI&logoColor=white" alt="SoapUI Badge"/>
   </a>
   <a href="https://trello.com">
     <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello Badge"/>
