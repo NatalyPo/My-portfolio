@@ -2,7 +2,7 @@
 
 <!-- изменить картинку -->
 
-Привет, меня зовут Наталия. Я - начинающий тестировщик и очень заинтересована в развитии в этой профессии.
+Привет, меня зовут Наталия. Я - начинающий тестировщик.
 
 В этом порфолио представлены мои проекты, выполненные во время обучения и практики.
 <div id="header" align="center">
@@ -13,49 +13,55 @@
 ## Навыки и технологии
 
 <div id="badges">
-  <a href="your-youtube-URL">
+  <a href="https://www.notion.so">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro Badge"/>
+  <a href="https://www.miro.com">
+    <img src="https://img.shields.io/badge/Miro-ffbf00?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.atlassian.com/software/confluence">
     <img src="https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://qase.io">
     <img src="https://img.shields.io/badge/Qase.io-darkblue?style=for-the-badge&logo=Qase.io&logoColor=white" alt="Qase.io Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.postman.com">
     <img src="https://img.shields.io/badge/Postman-orangered?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.postgresql.org">
     <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://dbeaver.io">
     <img src="https://img.shields.io/badge/DBeaver-lightgray?style=for-the-badge&logo=DBeaver&logoColor=white" alt="DBeaver Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://swagger.io">
     <img src="https://img.shields.io/badge/Swagger-darkgreen?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger Badge"/>
   </a>
-   <a href="your-linkedin-URL">
+   <a href="https://www.soapui.org">
     <img src="https://img.shields.io/badge/SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white" alt="SoapUI Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://trello.com">
     <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Chrome DevTools-red?style=for-the-badge&logo=Chrome DevTools&logoColor=white" alt="Chrome DevTools Badge"/>
+  <a href="https://developer.chrome.com/docs/devtools?hl">
+    <img src="https://img.shields.io/badge/Chrome DevTools-f73333?style=for-the-badge&logo=Chrome DevTools&logoColor=white" alt="Chrome DevTools Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.google.com/drive/">
     <img src="https://img.shields.io/badge/GoogleDrive-tealgreen?style=for-the-badge&logo=GoogleDrive&logoColor=white" alt="GoogleDrive Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android Studio-darkgreen?style=for-the-badge&logo=Pairwise Pict Online&logoColor=white" alt="Pairwise Pict Online Badge"/>
+  </a>
+  <a href="https://www.charlesproxy.com/">
+    <img src="https://img.shields.io/badge/Charles Proxy-8A2BE2?style=for-the-badge&logo=Pairwise Pict Online&logoColor=white" alt="Pairwise Pict Online Badge"/>
+  </a>
+  <a href="https://pairwise.yuuniworks.com/">
     <img src="https://img.shields.io/badge/Pairwise Pict Online-lightblue?style=for-the-badge&logo=Pairwise Pict Online&logoColor=white" alt="Pairwise Pict Online Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://pairwise.teremokgames.com/">
     <img src="https://img.shields.io/badge/Pairwise Online Tool-lightblue?style=for-the-badge&logo=Pairwise Online Tool&logoColor=white" alt="Pairwise Online Tool Badge"/>
   </a>
 </div>
