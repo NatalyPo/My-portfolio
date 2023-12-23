@@ -162,7 +162,7 @@
 ## Мои контакты
 
 <div id="badges">
-  <a href="natalymanya.editor@gmail.com">
+  <a href="mailto:natalymanya.editor@gmail.com">
     <img src="https://img.shields.io/badge/GMail-yellow?style=for-the-badge&logo=GMail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a href="https://wa.me/79663525528">
