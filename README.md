@@ -19,7 +19,7 @@
   <a href="https://www.miro.com">
     <img src="https://img.shields.io/badge/Miro-ffbf00?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro Badge"/>
   </a>
-   <a href="https://www.atlassian.com/software/confluence">
+   <a href="https://www.atlassian.com/software/confluence?">
     <img src="https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence Badge"/>
   </a>
    <a href="https://qase.io">
