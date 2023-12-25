@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Chrome DevTools-f73333?style=for-the-badge&logo=Chrome DevTools&logoColor=white" alt="Chrome DevTools Badge"/>
   </a>
   <a href="https://www.google.com/drive/">
-    <img src="https://img.shields.io/badge/GoogleDrive-tealgreen?style=for-the-badge&logo=GoogleDrive&logoColor=white" alt="GoogleDrive Badge"/>
+    <img src="https://img.shields.io/badge/GoogleDrive-ffbf00?style=for-the-badge&logo=GoogleDrive&logoColor=white" alt="GoogleDrive Badge"/>
   </a>
   <a href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android Studio-darkgreen?style=for-the-badge&logo=Pairwise Pict Online&logoColor=white" alt="Pairwise Pict Online Badge"/>
